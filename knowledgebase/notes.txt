@@ -1,0 +1,6 @@
+Shortcomings of Machine Learning:
+1. Statistical model rather than causal.
+2. Transparent reasoning and auditable answers.
+3. Requirement of clean, complete and accurate training data.
+4. Reliance on human data scientists to construct, tune, and refine the statistical models.
+5. Inability of siloed one-off models to generalize across domains, functions, business units, or geographies.

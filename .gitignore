@@ -1,0 +1,6 @@
+# Exclude IDE related directories, such as configuration files from JetBrains IDEs.
+.idea/
+
+# Exclude PyTorch model files (.pth) from the machinelearning/llm directory and any subdirectories to prevent tracking
+# large model files.
+machinelearning/llm/**/*.pth
